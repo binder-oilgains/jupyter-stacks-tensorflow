@@ -1,6 +1,8 @@
-# Using a Docker image from the Jupyter `docker-stacks` repository
+# Using a Docker image from the Jupyter `docker-stacks-tensorflow` repository
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-oilgains/jupyter-stacks/main)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-oilgains/jupyter-stacks-tensorflow/main)
+
+Repo: https://github.com/jupyter/docker-stacks/tree/master/tensorflow-notebook
 
 Sometimes you just want to inherit from one of the pre-built images
 maintained by the Jupyter Project's [Docker Stacks](https://github.com/jupyter/docker-stacks),
