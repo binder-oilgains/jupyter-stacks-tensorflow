@@ -1,3 +1,3 @@
-FROM jupyter/r-notebook
+FROM jupyter/tensorflow-notebook
 
 RUN pip install --no-cache-dir vdom==0.5
