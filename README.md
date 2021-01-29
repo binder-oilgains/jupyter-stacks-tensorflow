@@ -1,6 +1,6 @@
 # Using a Docker image from the Jupyter `docker-stacks-tensorflow` repository
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-oilgains/jupyter-stacks-tensorflow/main)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-oilgains/jupyter-stacks-r-notebook/main)
 
 Repo: https://github.com/jupyter/docker-stacks/tree/master/tensorflow-notebook
 
